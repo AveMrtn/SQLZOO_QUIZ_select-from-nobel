@@ -1,0 +1,1 @@
+# SQLZOO_QUIZ_select-from-nobel
